@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Robert Penate and I am a student at Florida International University pursuing a B.S. in Computer Science as well as a B.A. in Dual Language studies, with a primary concentration in Japanese and secondary in French. I am also completing a certificate in Korean Studies and plan to do a masters program upon graduating from FIU. I speak English and Spanish natively as well as Japanese, Korean and French to an intermediate level.
 <!--
 **Robert-P1215/Robert-p1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
