@@ -30,12 +30,15 @@ technology**, blending software engineering with global communication.
 -   Web Development Team Lead -- Shell Hacks 2023
 -   In-Person Educator -- Hammocks Middle School
 
-## Project
+## 📚 Projects
 
 **Japanese Your Way Through Life** -- Educational Blog
+**Fitelligence** -- IOS workout planner/tracker with AI
 
 ## Contact
 
-📧 rpena083@fiu.edu /n
+📧 rpena083@fiu.edu
+
 💼 linkedin.com/in/robert-penate
+
 🧑‍💻 github.com/Robert-P1215
