@@ -1,16 +1,41 @@
 ## Hi there 👋
 My name is Robert Penate and I am a student at Florida International University pursuing a B.S. in Computer Science as well as a B.A. in Dual Language studies, with a primary concentration in Japanese and secondary in French. I am also completing a certificate in Korean Studies and plan to do a masters program upon graduating from FIU. I speak English and Spanish natively as well as Japanese, Korean and French to an intermediate level.
-<!--
-**Robert-P1215/Robert-p1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 **Computer Science & Global Languages, Cultures & Literature**\
+📍 Florida International University \| GPA: **3.81** \| Expected
+Graduation: **May 2027**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a student developer with a passion for **AI, NLP, and language
+technology**, blending software engineering with global communication.
+
+## Technical Skills
+
+-   Java (Intermediate)\
+-   Python, C#, HTML, CSS (Basic)
+
+## Languages
+
+-   English -- Native\
+-   Spanish -- Native\
+-   Japanese -- Semi-fluent\
+-   Korean -- Intermediate\
+-   French -- Basic
+
+## Experience
+
+-   President -- Korean Language Empowerment Club\
+-   Korean Language Tutor -- FIU\
+-   Web Development Team Lead -- Shell Hacks 2023\
+-   In-Person Educator -- Hammocks Middle School
+
+## Project
+
+**Japanese Your Way Through Life** -- Educational Blog
+
+## Contact
+
+📧 rpena083@fiu.edu\
+💼 linkedin.com/in/robert-penate\
+🧑‍💻 github.com/Robert-P1215
