@@ -5,17 +5,17 @@ My name is Robert Penate and I am a student at Florida International University 
 📍 Florida International University | GPA: **3.81** | Expected
 Graduation: **May 2027**
 
-## About Me
+## 🚀 About Me
 
 I'm a student developer with a passion for **AI, NLP, and language
 technology**, blending software engineering with global communication.
 
-## Technical Skills
+## 🧠 Technical Skills
 
 -   Java (Intermediate)
 -   Python, C#, HTML, CSS (Basic)
 
-## Languages
+## 🌐 Languages
 
 -   English -- Native
 -   Spanish -- Native
@@ -23,7 +23,7 @@ technology**, blending software engineering with global communication.
 -   Korean -- Intermediate
 -   French -- Basic
 
-## Experience
+## 🏆 Experience
 
 -   President -- Korean Language Empowerment Club
 -   Korean Language Tutor -- FIU
@@ -33,6 +33,7 @@ technology**, blending software engineering with global communication.
 ## 📚 Projects
 
 **Japanese Your Way Through Life** -- Educational Blog
+
 **Fitelligence** -- IOS workout planner/tracker with AI
 
 ## Contact
