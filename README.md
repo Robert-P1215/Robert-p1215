@@ -36,6 +36,6 @@ technology**, blending software engineering with global communication.
 
 ## Contact
 
-📧 rpena083@fiu.edu
+📧 rpena083@fiu.edu /n
 💼 linkedin.com/in/robert-penate
 🧑‍💻 github.com/Robert-P1215
