@@ -7,7 +7,7 @@ Graduation: **May 2027**
 
 ## 🚀 About Me
 
-I'm a student developer with a passion for **AI, NLP, and language
+I'm a student developer with a passion for **AI,Data Science, NLP, and language
 technology**, blending software engineering with global communication.
 
 ## 🧠 Technical Skills
