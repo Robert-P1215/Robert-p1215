@@ -12,8 +12,9 @@ technology**, blending software engineering with global communication.
 
 ## 🧠 Technical Skills
 
--   Java (Intermediate)
--   Python, C#, HTML, CSS (Basic)
+-   Java (Advanced)
+-   Python, C (Intermediate)
+-   HTML, CSS (Basic)
 
 ## 🌐 Languages
 
